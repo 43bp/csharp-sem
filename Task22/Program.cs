@@ -34,3 +34,4 @@ int [] array = new int[n]; // создаем массив с числом эле
 
 SqArray (array, n);
 PrintArray (array);
+
